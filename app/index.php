@@ -6,4 +6,6 @@
 
     echo 'woohoo this project made it into the next iteration - #2';
 
+    echo 'this was a sneaky change';
+
 ?>
